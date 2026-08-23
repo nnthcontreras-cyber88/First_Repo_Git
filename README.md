@@ -1,2 +1,3 @@
-# First_Repo_Git
+# First-Repo-Git
 Practice Repo for Learning Git
+
